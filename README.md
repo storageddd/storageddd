@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi! My name is Vadzim and I’m a seasoned frontend developer with 10+ years of commercial experience. I've contributed to the development, design and optimization of business products, UI libraries, design systems, boilerplate solutions and APIs, while working with a wide range of frontend and backend technologies.
 
-<!--
-**storageddd/storageddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technical stack:
+- Frontend: Vue.js 2/3, Nuxt.js (SSR), Pinia, Vuex, TypeScript, HTML, SCSS.
+- Backend: Express, NestJS, Laravel, Socket.io, OpenAPI, MySQL, PostgreSQL, Redis, Memcached.
+- UX/UI: Focused on consistency, design patterns and seamless user experience.
 
-Here are some ideas to get you started:
+🔹 About me:
+- Responsible, diligent, self-motivated, goal-oriented and honest.
+- In my free time, I compose music, enjoy computer and board games and love traveling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 My projects & profiles:
+- Planning poker: https://scrump.io
+- LinkedIn: http://linkedin.com/in/vadzim-veleshka/
