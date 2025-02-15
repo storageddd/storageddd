@@ -11,4 +11,4 @@
 
 🔗 My projects & profiles:
 - Planning poker: https://scrump.io
-- LinkedIn: http://linkedin.com/in/vadzim-veleshka/
+- LinkedIn: https://linkedin.com/in/vadzim-veleshka/
